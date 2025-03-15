@@ -1,1 +1,0 @@
-# Fourier-lossy-compression
